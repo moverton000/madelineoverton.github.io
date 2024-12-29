@@ -1,6 +1,12 @@
 ---
 layout: cv
 ---
+<style>
+table, th, td {
+    border: none!important;
+    vertical-align: top;
+}
+</style>
 
 # Madeline Overton
 ### Department of Physics and Astronomy
