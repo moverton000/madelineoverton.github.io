@@ -1,3 +1,7 @@
+---
+layout: cv
+---
+
 <style>
 table, th, td {
     border: none!important;
