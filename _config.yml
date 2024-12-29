@@ -1,5 +1,9 @@
-theme: minima
+remote_theme: jekyll/minima
+plugins: jekyll-remote-theme
 minima:
   skin: dark
+
 title: Madeline's Portfolio
+author: Madeline Overton
+email: mnoverton987@gmail.com
 description: Past and Current Astronomy work
