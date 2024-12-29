@@ -5,7 +5,6 @@ layout: cv
 table, th, td {
     border: none!important;
     vertical-align: top;
-    width: 100%
 }
 </style>
 
@@ -14,7 +13,7 @@ table, th, td {
 ### University of Nevada, Las Vegas
 ### 4505 S. Maryland Pkwy. <br />Las Vegas, NV 89154-4002
 ### Email: [overtm2@unlv.nevada.edu](mailto:overtm2@unlv.nevada.edu) -->
-
+test out a really long line test out a really long line test out a really long line test out a really long line test out a really long line test out a really long line test out a really long line test out a really long line test out a really long line test out a really long line 
 <table>
     <tr>
         <th>Education</th>
