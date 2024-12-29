@@ -5,6 +5,7 @@ layout: cv
 table, th, td {
     border: none!important;
     vertical-align: top;
+    width: 100%
 }
 </style>
 
