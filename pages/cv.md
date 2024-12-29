@@ -1,7 +1,3 @@
----
-layout: default
----
-
 <style>
 table, th, td {
     border: none!important;
