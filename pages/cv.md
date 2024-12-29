@@ -2,21 +2,13 @@
 layout: cv
 ---
 
-<style>
-table, th, td {
-    border: none!important;
-    vertical-align: top;
-}
-</style>
 # Madeline Overton
-## Department of Physics and Astronomy
-## University of Nevada, Las Vegas
-## 4505 S. Maryland Pkwy.
-## Las Vegas, NV 89154-4002
-## Email: [overtm2@unlv.nevada.edu](mailto:overtm2@unlv.nevada.edu)
+### Department of Physics and Astronomy
+### University of Nevada, Las Vegas
+##### 4505 S. Maryland Pkwy.
+##### Las Vegas, NV 89154-4002
+##### Email: [overtm2@unlv.nevada.edu](mailto:overtm2@unlv.nevada.edu)
 
-<!-- comment -->
-<!-- CMD shift V for preview -->
 <table>
     <tr>
         <th>Education</th>
