@@ -173,11 +173,12 @@ table, th, td {
         Linux Systems</td>
     </tr>
     <tr>
-        Relevant Simulations and Models:<br />
+        <td></td>
+        <td>Relevant Simulations and Models:<br />
         PHANTOM Smooth Particle Hydrodynamics Code<br />
         ATHENA ++ Astrophysical magnetohydrodynamics (MHD) code<br />
         MESA (Modules for Experiments in Stellar Astrophysics) Stellar Evolution Code<br />
         Galacticus semi-analytic galaxy formation model<br />
-        Rockstar halo finding algorithm<br />
+        Rockstar halo finding algorithm</td>
     </tr>
 </table>
